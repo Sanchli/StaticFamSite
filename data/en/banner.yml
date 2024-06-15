@@ -1,0 +1,12 @@
+############################### Banner ################################
+banner:
+  enable : true
+  bg_image_webp : ""
+  bg_image : "images/backgrounds/favicon.png"
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "Granite Zinac"
+  content : "Cant seem to find a Fabricator that is actually a personal experience?"
+  button:
+    enable : true
+    label : "Explore Us"
+    link : "#services"

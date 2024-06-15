@@ -1,0 +1,11 @@
+############################# call to action ##############################
+cta:
+  enable : true
+  bg_image : "images/backgrounds/white Carrera.png"
+  bg_image_webp : "images/backgrounds/white Carrera.webp"
+  title : "Great Granite Design & Incredible Craftsmanship"
+  content : "Your trusted granite experts in Kerrville, Texas, dedicated to providing top-quality products and exceptional service. Ready and eager to serve all your granite needs today!"
+  button:
+    enable : true
+    label : "Take the first step with us."
+    link : "#contact"

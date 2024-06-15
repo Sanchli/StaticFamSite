@@ -1,0 +1,16 @@
+############################# About ###################################
+about:
+  enable : true
+  title : About Us
+  about_item :
+  - icon : ti-comment-alt # themify icon pack : https://themify.me/themify-icons
+    title : We Communicate
+    content : Always willing to answer questions or concerns that come our way.
+
+  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
+    title : We love CUSTOM
+    content : Does your kitchen feel Challenging or Difficult? Trust us. We got this.
+
+  - icon : ti-heart # themify icon pack : https://themify.me/themify-icons
+    title : People are Priority
+    content : "We don’t treat you like a customer. We treat you like family. - Vin Diesel"

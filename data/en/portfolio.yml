@@ -1,0 +1,29 @@
+#################################### portfolio ###############################
+portfolio:
+  enable : true
+  title : Our Works
+  portfolio_item :
+    # portfolio item loop
+    - name : Tag Design
+      image : images/portfolio/portfolio-1.jpg
+      image_webp : images/portfolio/portfolio-1.webp
+      categories : ["Kitchen"]
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "https://themefisher.com"
+      
+    # portfolio item loop
+    - name : Sound system
+      image : images/portfolio/portfolio-2.jpg
+      image_webp : images/portfolio/portfolio-2.webp
+      categories : ["Bath"]
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : ""
+      
+    # portfolio item loop
+    - name : 
+      image : images/portfolio/OutDoorKitchen1.jpg
+      image_webp : images/portfolio/outDoorKitchen1.webp
+      categories : ["Kitchen", "Outdoor Kitchen"]
+      content : Outdoor Kitchen with Grill. 
+      link : "#"
+      
